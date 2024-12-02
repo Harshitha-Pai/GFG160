@@ -18,3 +18,7 @@ Day3:
 Day4:
   Given an unsorted array arr[]. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer. Do the mentioned change in the array in place.
   Note: Consider the array as circular.
+
+Day5:
+  Given an array of integers arr[] representing a permutation, implement the next permutation that rearranges the numbers into the lexicographically next greater permutation. If no such permutation exists, 
+  rearrange the numbers into the lowest possible order (i.e., sorted in ascending order). Note - A permutation of an array of integers refers to a specific arrangement of its elements in a sequence or linear order.
